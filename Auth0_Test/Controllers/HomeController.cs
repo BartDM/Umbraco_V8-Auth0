@@ -13,6 +13,7 @@ namespace Auth0_Test.Controllers
             return View();
         }
 
+        [Authorize]
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
