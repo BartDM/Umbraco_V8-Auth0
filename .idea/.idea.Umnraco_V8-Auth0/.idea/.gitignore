@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Umnraco_V8-Auth0.iml
+# Datasource local storage ignored files
+/../../../../../../../:\Projects\Umbraco_V8-Auth0\Umnraco_V8-Auth0\.idea\.idea.Umnraco_V8-Auth0\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
